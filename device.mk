@@ -409,7 +409,6 @@ PRODUCT_PACKAGES += \
     wificond \
     wifilogd \
     libwpa_client \
-    dhcpcd.conf \
     wpa_supplicant \
     wpa_supplicant.conf \
     wifi_symlinks \
