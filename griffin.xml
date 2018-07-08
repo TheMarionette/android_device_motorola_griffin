@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/motorola/griffin" name="TheMarionette/android_device_motorola_griffin" remote="github" revision="8.1.x" />
+  <project path="vendor/motorola" name="TheMarionette/proprietary_vendor_motorola" remote="github" revision="o8.1" />
+  <project path="kernel/motorola/msm8996" name="TheMarionette/android_kernel_motorola_msm8996" remote="github" revision="eas" />
+
+//LineageOS DeviceSettings for the Gestures
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.1" />
+
+</manifest>
